@@ -1,0 +1,42 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Mobile Navigation Bar Slide Down Transition */
+.slideDown {
+    transition: all .3s ease-in-out;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.account {
+    height: 0;
+    transition: all .3s ease-in-out;
+}
+
+.user:hover ~ .account {
+    height: 90px;
+    border: 1px rgba(255, 255, 255, 0.5);
+    border-top: 0;  
+} 
+
+.account:hover {
+    height: 90px;
+    border: 1px rgba(255, 255, 255, 0.5);
+    border-top: 0; 
+} 
