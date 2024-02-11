@@ -7,7 +7,7 @@ function BestSeller() {
         <h2 className='text-center pb-[40px] font-bold text-[2rem]'>Best Seller</h2>
         <div className='min-[600px]:flex max-w-[950px] mx-auto mb-[50px]'>
             <div className='mb-5 min-[600px]:w-[50%] min-[600px]:mb-0'>
-                <img src="/assets/Women-Hoodies/Women's-Spider-Web-Zipper-Hoodie.jpg" alt="" className='w-full min-[600px]:h-[400px]' />
+                <img src="./assets/Women-Hoodies/Women's-Spider-Web-Zipper-Hoodie.jpg" alt="" className='w-full min-[600px]:h-[400px]' />
             </div>
             <div className='min-[600px]:w-[50%] min-[600px]:pl-[20px] min-[600px]:pt-1 md:py-2 md:px-[50px]'> 
                 <h2 className='text-red-600 font-bold text-[1.2rem] mb-2 md:text-[2rem]'>SAVE 20% HURRY UP!</h2>

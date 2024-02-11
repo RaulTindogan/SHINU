@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import logo from "/assets/SHINU.png"
+import logo from "./assets/SHINU.png"
 function Footer() {
   return (
     <footer className='py-[40px] px-[20px] bg-black text-white lg:px-[50px] lg:py-[50px] max-w-[1420px] mx-auto'>
@@ -42,7 +42,7 @@ function Footer() {
                     <p className='font-bold mb-5 max-w-[321px]'>Get E-mail updates about our latest shop and special offers.</p>
                     <form action="#" className='w-full flex h-[40px]'>
                         <input type="email" name="email" id="email" placeholder='example@email.com' className='text-black py-[5px] px-[10px] w-[80%] outline-none' />
-                        <button type="submit" className='flex justify-center items-center w-[20%] bg-[#FFB800]'><img src="/assets/Plain.png" alt="" className='w-[30px]'/></button>
+                        <button type="submit" className='flex justify-center items-center w-[20%] bg-[#FFB800]'><img src="./assets/Plain.png" alt="" className='w-[30px]'/></button>
                     </form>             
                 </div>
             </div>
@@ -52,16 +52,16 @@ function Footer() {
             <div className='bg-[#FFF8F8] lg:w-[50%]'>
                 <ul className='flex flex-wrap justify-evenly items-center'>
                     <li className="cursor-pointer w-[17%]">
-                        <img src="/assets/Paypal-Logo.png" alt="" />
+                        <img src="./assets/Paypal-Logo.png" alt="" />
                     </li>
                     <li className="cursor-pointer w-[17%]">
-                        <img src="/assets/American-Express.png" alt="" />
+                        <img src="./assets/American-Express.png" alt="" />
                     </li>
                     <li className="cursor-pointer w-[17%]">
-                        <img src="/assets/Amazon-Logo.png" alt="" />
+                        <img src="./assets/Amazon-Logo.png" alt="" />
                     </li>
                     <li className="cursor-pointer w-[17%]">
-                        <img src="/assets/Visa_Logo.png" alt="" />
+                        <img src="./assets/Visa_Logo.png" alt="" />
                     </li>
                 </ul>
             </div>

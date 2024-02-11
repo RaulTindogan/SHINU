@@ -19,7 +19,7 @@ function About() {
       <section className="py-10 px-[20px] md:px-[50px]">
         <div className="mb-10 md:flex">
           <div className="mb-5 md:w-1/2 md:mb-0">
-            <img src="/assets/tailor2.jpg" alt="" className="block mx-auto md:h-full md:mx-0"/>
+            <img src="./assets/tailor2.jpg" alt="" className="block mx-auto md:h-full md:mx-0"/>
           </div>
           <div className="md:w-1/2">
             <h2 className="font-bold text-[2rem] text-center mb-5">SHINU</h2>
@@ -47,7 +47,7 @@ function About() {
                 <p className="lg:text-[1.5rem]">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis ad tempore iure magnam, modi eveniet suscipit aspernatur, quod obcaecati sequi fugit animi repudiandae recusandae optio non odio. Enim, officiis quidem!</p>
               </div>
               <div className="md:w-1/2">
-                <img src="/assets/tailor1.jpg" alt="" className="md:h-full"/>
+                <img src="./assets/tailor1.jpg" alt="" className="md:h-full"/>
               </div>
             </div>
           </div>

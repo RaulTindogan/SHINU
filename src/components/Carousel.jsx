@@ -74,7 +74,7 @@ function Carousel({ sliderId }) {
                       <div className='flex justify-between items-center'>
                         <p className='font-bold text-[1.3rem]'>{"₱" + product.productPrice}</p>
                         <div className='py-[3px] pl-[8px] pr-[6px] bg-[#FFB800] flex justify-center items-center cursor-pointer'>
-                          <img src="/assets/shopping-cart.svg" alt="" />
+                          <img src="./assets/shopping-cart.svg" alt="" />
                         </div>
                       </div>  
                     </div>
