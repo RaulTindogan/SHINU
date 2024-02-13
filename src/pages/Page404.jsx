@@ -6,7 +6,7 @@ function Page404() {
         <section className="px-[20px] md:px-[50px] py-[25px] md:py-[50px]">
            <div className='pt-[50px] md:flex max-w-[700px] mx-auto'>
                 <div>
-                    <img src="./assets/cute-cat.png" alt="" className='w-[500px]'/>
+                    <img src="https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/cute-cat.png" alt="" className='w-[500px]'/>
                 </div>
                 <div className='pl-[3rem]'>
                     <h1 className='pt-[50px] text-[2rem] font-bold mb-5'>Oops! Page Not Found</h1>

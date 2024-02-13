@@ -41,7 +41,7 @@ const recommendedItems = randomItems.map(items => (
           <div className='flex justify-between items-center bg-[#D9D9D9]'>
             <p className='text-[#FF4F04] font-bold text-[1.2rem] '>{"₱" + items.productPrice}</p>
             <div className='py-[3px] pl-[8px] pr-[6px] bg-[#FFB800] flex justify-center items-center cursor-pointer'>
-              <img src="./assets/shopping-cart.svg" alt="" />
+              <img src="https://raw.githubusercontent.com/RaulTindogan/SHINU/05f92a423bb856556bd7c91653020d185e358c08/public/assets/shopping-cart.svg" alt="" />
             </div>
           </div>
         </div>

@@ -6,7 +6,7 @@ function Register() {
       <section className="
           py-10 px-[20px] md:px-[50px] min-h-[100vh]
           bg-black/60
-          bg-[url('/assets/tailoring-shop.jpg')]
+          bg-[url('https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/tailoring-shop.jpg')]
           bg-cover
           bg-no-repeat
           bg-center

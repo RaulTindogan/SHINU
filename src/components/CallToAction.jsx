@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function CallToAction() {
   return (
@@ -9,7 +10,7 @@ function CallToAction() {
                 items-center 
                 justify-center 
                 bg-black/60
-                bg-[url('/assets/ctc.png')]
+                bg-[url('https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/ctc.png')]
                 bg-cover
                 bg-blend-overlay
                 bg-center
@@ -18,7 +19,7 @@ function CallToAction() {
             " 
             >
                 <h2 className='text-[1.5rem] text-white font-bold mb-5 md:text-[3rem]'>UPGRADE YOUR STYLE</h2>
-                <a href="/" className="bg-[#FFB800] text-black font-bold py-[10px] px-[20px] rounded md:text-[1.5rem] md:py-[15px] md:px-[30px]">Shop Now</a> 
+                <Link to={"/shop"} className="bg-[#FFB800] text-black font-bold py-[10px] px-[20px] rounded md:text-[1.5rem] md:py-[15px] md:px-[30px]">Shop Now</Link> 
             </div>
     </section>
   )

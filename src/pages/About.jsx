@@ -6,7 +6,7 @@ function About() {
       <section className="
         h-[50vh] lg:h-[70vh]
         bg-black/60
-        bg-[url('/assets/tailor-1.jpg')]
+        bg-[url('https://github.com/RaulTindogan/SHINU/blob/master/public/assets/tailor-1.jpg')]
         bg-cover
         bg-no-repeat
         bg-center
@@ -19,7 +19,7 @@ function About() {
       <section className="py-10 px-[20px] md:px-[50px]">
         <div className="mb-10 md:flex">
           <div className="mb-5 md:w-1/2 md:mb-0">
-            <img src="./assets/tailor2.jpg" alt="" className="block mx-auto md:h-full md:mx-0"/>
+            <img src="https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/tailor2.jpg" alt="" className="block mx-auto md:h-full md:mx-0"/>
           </div>
           <div className="md:w-1/2">
             <h2 className="font-bold text-[2rem] text-center mb-5">SHINU</h2>

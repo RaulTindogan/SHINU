@@ -9,7 +9,7 @@ function Shop() {
       <section className="
         h-[50vh] lg:h-[70vh]
         bg-black/60
-        bg-[url('/assets/banner-bg-2.png')]
+        bg-[url('https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/banner-bg-2.png')]
         bg-cover
         bg-no-repeat
         bg-center

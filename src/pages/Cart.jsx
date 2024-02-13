@@ -92,45 +92,6 @@ function Cart() {
                 </div>
               </div>          
           ))}
-            {/* <div className="hidden md:block lg:w-[70%]">
-              <div className="flex border border-black p-2 mb-2">
-                <div>
-                  <img src="/assets/T-shirt-1.jpg" alt="" className="w-[200px] h-[200px]"/>
-                </div>
-                <div className="w-full px-2">
-                  <table className="w-full">
-                    <thead className="border-black/90 border-b-[1px]">
-                      <tr className="text-left">
-                        <th className="pl-2 py-2 md:text-[12px]">PRODUCT INFORMATION</th>
-                        <th className="md:text-[12px]">PRICE</th>
-                        <th className="md:text-[12px]">QUANTITY</th>
-                        <th className="md:text-[12px]">TOTAL</th>
-                        <th className="md:text-[12px]">ACTION</th>
-                      </tr>
-                    </thead>
-                    <tbody className="text-[14px]">
-                      <tr>
-                        <td className="pl-2">
-                          <p>Product Name</p>
-                          <p>Product Information</p>
-                          <p>Product Information</p>
-                        </td>
-                        <td className="text-left">300</td>
-                        <td>
-                        <div className="flex justify-between w-[100px]">
-                          <button className="border-black px-2 pb-[1px] w-[20px] rounded-sm text-[14px] text-white bg-black font-bold flex justify-center items-center">—</button>
-                          <div className="w-[40px] text-center border-[1px] border-black/80 rounded-sm mx-2 text-[12px]">0</div>
-                          <button className="border-black pb-[1px] w-[20px] rounded-sm text-white bg-black font-bold flex justify-center items-center">+</button>
-                        </div>  
-                        </td>
-                        <td>300</td>
-                        <td>delete</td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </div> */}
           </div>
 
             <div className="mb-5 md:hidden">

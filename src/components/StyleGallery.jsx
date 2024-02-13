@@ -8,42 +8,42 @@ function StyleGallery() {
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Tee/Contrast-Trim-Pocket-Patched-Tee-4.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Tee/Contrast-Trim-Pocket-Patched-Tee-4.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Tee/Gray-Drop-Shoulder-Tee-3.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Tee/Gray-Drop-Shoulder-Tee-3.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Tee/Star-Solid-Off-Shoulder-Lettuce-Trim-Tee-4.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Tee/Star-Solid-Off-Shoulder-Lettuce-Trim-Tee-4.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Tee/Striped-Print-Contrast-Binding-Tee-1.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Tee/Striped-Print-Contrast-Binding-Tee-1.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Hoodies/Letter-Embroidery-Drop-Shoulder-Drawstring-Hoodie-5.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Hoodies/Letter-Embroidery-Drop-Shoulder-Drawstring-Hoodie-5.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>
             <div className='w-full border-black border relative'>
                 <div>
                     <div>
-                        <img src="/assets/Women-Hoodies/Drop-Shoulder-Oversized-Drawstring-Hoodie-4.jpg" alt="" className='w-full' />
+                        <img src="./assets/Women-Hoodies/Drop-Shoulder-Oversized-Drawstring-Hoodie-4.jpg" alt="" className='w-full' />
                     </div>
                 </div>
             </div>

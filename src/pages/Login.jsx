@@ -6,7 +6,7 @@ function Login() {
       <section className="
           py-10 px-[20px] md:px-[50px] h-screen
           bg-black/60
-          bg-[url('/assets/tailor-1.jpg')]
+          bg-[url('https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/tailor-1.jpg')]
           bg-cover
           bg-no-repeat
           bg-center

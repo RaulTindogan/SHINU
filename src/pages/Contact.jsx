@@ -6,7 +6,7 @@ function Contact() {
       <section className="
         h-[50vh]
         bg-black/60
-        bg-[url('/assets/contact.jpg')]
+        bg-[url('https://raw.githubusercontent.com/RaulTindogan/SHINU/master/public/assets/contact.jpg')]
         bg-cover
         bg-no-repeat
         bg-center
